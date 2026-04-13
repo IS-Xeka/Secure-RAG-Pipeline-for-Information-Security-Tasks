@@ -1,7 +1,5 @@
 # Secure-RAG-Pipeline-for-Information-Security-Tasks
 
-# Secure RAG Pipeline for Information Security Tasks
-
 ## 📌 Описание
 Данный репозиторий содержит реализацию защищенного пайплайна **Retrieval-Augmented Generation (RAG)** для задач информационной безопасности. Проект разработан в рамках курсовой работы по дисциплине «Искусственный интеллект в защите информации» (Вариант 64, Уровень С).
 
