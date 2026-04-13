@@ -35,12 +35,12 @@
 - Оценка точности, полноты и робастности к атакам
 
 ## 📂 Структура репозитория
-├── RAG_Pipeline_KR_Variant64.ipynb
-├── data/
-│   ├── Prikaz_FSTEK_21.pdf
-│   ├── Federal_Law_152.pdf
-│   └── gost_R_56545-2015.pdf
-├── requirements.txt
+├── RAG_Pipeline_KR_Variant64.ipynb \
+├── data/ \
+│   ├── Prikaz_FSTEK_21.pdf \
+│   ├── Federal_Law_152.pdf \
+│   └── ... \
+├── requirements.txt \
 └── README.md
 
 ## 📊 Результаты экспериментов
