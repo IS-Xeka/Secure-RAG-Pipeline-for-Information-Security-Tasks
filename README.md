@@ -72,7 +72,7 @@
 ### Локальный запуск
 bash
 # Клонирование репозитория
-git clone https://github.com/your-username/secure-rag-ib.git
+git clone https://github.com/IS-Xeka/Secure-RAG-Pipeline-for-Information-Security-Tasks
 cd secure-rag-ib
 
 # Установка зависимостей
