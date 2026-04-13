@@ -73,7 +73,7 @@
 bash
 # Клонирование репозитория
 git clone https://github.com/IS-Xeka/Secure-RAG-Pipeline-for-Information-Security-Tasks
-cd secure-rag-ib
+cd Secure-RAG-Pipeline-for-Information-Security-Tasks
 
 # Установка зависимостей
 pip install -r requirements.txt
